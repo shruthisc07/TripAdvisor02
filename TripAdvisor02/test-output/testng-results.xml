@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAssigment02 Automation" duration-ms="106846" started-at="2020-01-31T06:40:29Z" finished-at="2020-01-31T06:42:16Z">
+    <groups>
+    </groups>
+    <test name="TestAssignment02 Automation tests" duration-ms="106846" started-at="2020-01-31T06:40:29Z" finished-at="2020-01-31T06:42:16Z">
+      <class name="com.testassignment02.driverscript.DriverScript">
+        <test-method status="PASS" signature="startAutomationSuite()[pri:0, instance:com.testassignment02.driverscript.DriverScript@6d78f375]" name="startAutomationSuite" is-config="true" duration-ms="11" started-at="2020-01-31T12:10:29Z" finished-at="2020-01-31T12:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomationSuite -->
+        <test-method status="PASS" signature="executeTestScenarios()[pri:0, instance:com.testassignment02.driverscript.DriverScript@6d78f375]" name="executeTestScenarios" duration-ms="106825" started-at="2020-01-31T12:10:29Z" finished-at="2020-01-31T12:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+      </class> <!-- com.testassignment02.driverscript.DriverScript -->
+    </test> <!-- TestAssignment02 Automation tests -->
+  </suite> <!-- TestAssigment02 Automation -->
+</testng-results>
